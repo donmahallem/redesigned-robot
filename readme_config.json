@@ -1,0 +1,37 @@
+{
+    "line": "water",
+    "badges": [
+        {
+            "alt": "Test",
+            "url": "https://github.com/donmahallem/redesigned-robot/actions?query=workflow%3ATest+branch%3Amain",
+            "img": "https://github.com/donmahallem/redesigned-robot/workflows/Test/badge.svg?branch=main&event=push"
+        },
+        {
+            "alt": "codecov",
+            "url": "https://codecov.io/gh/donmahallem/redesigned-robot/branch/main",
+            "img": "https://codecov.io/gh/donmahallem/redesigned-robot/branch/main/graph/badge.svg"
+        },
+        {
+            "alt": "GitHub license",
+            "url": "https://github.com/donmahallem/redesigned-robot/blob/main/LICENSE",
+            "img": "https://img.shields.io/github/license/donmahallem/redesigned-robot"
+        },
+        {
+            "alt": "David",
+            "url": "https://github.com/donmahallem/redesigned-robot",
+            "img": "https://img.shields.io/david/donmahallem/redesigned-robot"
+        },
+        {
+            "alt": "David",
+            "url": "https://github.com/donmahallem/redesigned-robot",
+            "img": "https://img.shields.io/david/dev/donmahallem/redesigned-robot"
+        },
+        {
+            "alt": "GitHub contributors",
+            "url": "https://github.com/donmahallem/redesigned-robot/graphs/contributors",
+            "img": "https://img.shields.io/github/contributors-anon/donmahallem/redesigned-robot"
+        }
+    ],
+    "lineBreak": "\n",
+    "silent": true
+}
